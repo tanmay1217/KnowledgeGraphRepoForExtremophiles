@@ -1,5 +1,5 @@
-streamlit==1.10.0
-pandas==1.3.3
-networkx==2.6.3
-streamlit-agraph==0.2.0
-numpy==1.19.3
+streamlit
+pandas
+networkx
+streamlit-agraph
+numpy
