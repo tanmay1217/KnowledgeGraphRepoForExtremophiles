@@ -1,0 +1,5 @@
+streamlit
+pandas
+re
+networkx
+streamlit_agraph
